@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('error') {
       steps {
-        echo '1'
+        echo '123'
       }
     }
 
